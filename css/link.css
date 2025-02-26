@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+    color:black
+}
+body{
+    background-color:gray;
+    color: black;
+}
+h1 {
+    color: gray;
+    text-decoration-line: overline;
+    text-align:center;
+
+}
+h2{
+   color: blue; 
+}
+p{
+    font-size:40px;
+}
